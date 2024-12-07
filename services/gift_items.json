@@ -1,0 +1,382 @@
+{
+    "for_friends": {
+      "Under_20_dollar": [
+        "UNO Card Game",
+        "Personalized Coffee Mug from Etsy",
+        "Mini LED Keychain Projector",
+        "Inspirational Quote Poster",
+        "Portable Phone Stand",
+        "Reusable Stainless Steel Straw Set",
+        "Cute Notebook with Pen Set",
+        "Magnetic Fridge Photo Frames",
+        "LED Strip Lights",
+        "Small Succulent in Ceramic Pot"
+      ],
+      "20_to_50_dollar": [
+        "Harry Potter Illustrated Edition Book",
+        "Mini Projector for Streaming Movies (Elephas Portable Projector)",
+        "Customized Scrapbook Kit with Accessories",
+        "Bluetooth Shower Speaker (JBL Clip)",
+        "Personalized Tote Bag",
+        "Funky Table Lamp (Himalayan Salt Lamp)",
+        "Custom Bobblehead Figurine",
+        "DIY Cheese or Charcuterie Board Kit",
+        "Ticket to a Local Event or Movie",
+        "Set of Whiskey Stones with Glasses"
+      ],
+      "Above_50_dollar": [
+        "Herschel Classic Backpack",
+        "JBL GO 3 Portable Bluetooth Speaker",
+        "Ticketmaster Concert or Event Ticket",
+        "Polaroid Instant Camera",
+        "Luxury Coffee Maker (Nespresso Essenza Mini)",
+        "Stylish Leather Laptop Sleeve",
+        "Board Game Bundle (like Catan or Monopoly Deluxe Edition)",
+        "Customized Neon Light Sign",
+        "High-End Wireless Earbuds (Anker Soundcore Liberty)",
+        "Annual Subscription to Spotify or Netflix"
+      ]
+    },
+    "for_brother": {
+      "Under_20_dollar": [
+        "Hot Wheels Car Set (5-Pack)",
+        "Gaming Mouse Pad with LED Lights",
+        "Sports Water Bottle (Nike or Adidas)",
+        "Cool Graphic T-Shirt (Star Wars or Marvel)",
+        "Keychain Multi-Tool",
+        "Socks with Funny Patterns",
+        "Compact Travel Organizer",
+        "Action Figure (e.g., Funko Pop)",
+        "Magnetic Dartboard",
+        "Custom Leather Keychain"
+      ],
+      "20_to_50_dollar": [
+        "Metallica Band T-Shirt",
+        "Logitech Gaming Mouse (G203)",
+        "LEGO Speed Champions Car Set",
+        "Adidas Baseball Cap",
+        "Portable Bluetooth Speaker (JBL Clip)",
+        "Drone for Beginners",
+        "Fitness Tracker (Mi Band)",
+        "Stylish Wallet",
+        "VR Headset for Phones",
+        "Portable Power Bank"
+      ],
+      "Above_50_dollar": [
+        "PlayStation DualSense Wireless Controller",
+        "Adidas Ultraboost Running Shoes",
+        "Rado Watch (Budget Edition)",
+        "Gaming Chair",
+        "GoPro HERO Action Camera",
+        "High-End Noise-Canceling Headphones (Sony WH-CH710N)",
+        "Premium Mechanical Keyboard (Keychron)",
+        "Remote-Controlled Car",
+        "Nintendo Switch Lite",
+        "Sports Jersey of Favorite Team"
+      ]
+    },
+    "for_mother": {
+      "Under_20_dollar": [
+        "Scented Candle Set (Yankee Candle)",
+        "Personalized Recipe Book from Etsy",
+        "Handmade Pottery Mug",
+        "Reed Diffuser with Essential Oils",
+        "Herb Garden Starter Kit",
+        "Customized Photo Frame",
+        "Luxury Soap Bars (L'Occitane)",
+        "Decorative Kitchen Towels",
+        "Handwritten Letter Stationery Set",
+        "Foldable Grocery Tote Bag"
+      ],
+      "20_to_50_dollar": [
+        "Skincare Gift Set (L'Occitane or The Body Shop)",
+        "Aroma Diffuser with Essential Oils",
+        "Jewelry Box Organizer",
+        "A Nice Silk Scarf",
+        "Compact Sewing Kit",
+        "Custom Engraved Cutting Board",
+        "Indoor Plant (like Fiddle Leaf Fig)",
+        "Cookbook by Her Favorite Chef",
+        "Coffee Subscription Box",
+        "Ceramic Bakeware Set"
+      ],
+      "Above_50_dollar": [
+        "Dyson Hair Dryer",
+        "Custom Engraved Necklace with Birthstones",
+        "Luxury Spa Day Voucher",
+        "Smart Home Assistant (Amazon Echo or Google Nest)",
+        "Robot Vacuum Cleaner (Roomba)",
+        "High-End Air Fryer",
+        "Personalized Family Photo Album",
+        "Handmade Designer Jewelry",
+        "Premium Mattress Topper",
+        "Subscription to MasterClass"
+      ]
+    },
+    "for_father": {
+      "Under_20_dollar": [
+        "Engraved Pocket Knife",
+        "Premium Leather Keychain",
+        "Personalized Beer Mug",
+        "Mini Multi-Tool",
+        "Funny Dad T-Shirt",
+        "Portable BBQ Grill Lighter",
+        "Fishing Tackle Box",
+        "Sports Hat",
+        "Travel Coffee Mug (Contigo)",
+        "LED Flashlight"
+      ],
+      "20_to_50_dollar": [
+        "Cufflink and Tie Bar Set",
+        "Grilling Tool Set",
+        "Vintage Whiskey Decanter",
+        "Wireless Charging Pad",
+        "Premium Chess Set",
+        "Leather Journal",
+        "Binoculars for Bird Watching",
+        "Noise-Canceling Headphones",
+        "Smart Light Bulb Starter Kit",
+        "Cool Bar Accessories Kit"
+      ],
+      "Above_50_dollar": [
+        "Fossil Chronograph Watch",
+        "BOSE QuietComfort Earbuds",
+        "Weber Portable Charcoal Grill",
+        "Premium Golf Club",
+        "Leather Recliner Chair",
+        "Drone with Camera",
+        "Apple Watch",
+        "Professional Tool Kit",
+        "Subscription to a Golf or Sports Magazine",
+        "Barbecue Smoker"
+      ]
+    },
+    "for_spouse": {
+      "Under_20_dollar": [
+        "Personalized Handwritten Letter Keychain",
+        "Couple Matching Bracelets",
+        "Heart-Shaped Photo Frame",
+        "Mini Love Notes in a Jar",
+        "Customized Coffee Mugs for Couples",
+        "Mini Indoor Herb Garden Kit",
+        "Handmade Scented Candles",
+        "A Box of Gourmet Chocolates",
+        "Cute Fridge Magnets with Personal Photos",
+        "Love-Themed Puzzle"
+      ],
+      "20_to_50_dollar": [
+        "A Customized Puzzle of a Special Photo",
+        "Aromatherapy Candle Gift Set",
+        "Romantic Dinner Voucher for Two",
+        "Personalized Throw Blanket with Photos",
+        "Couple's Adventure Scrapbook",
+        "Bluetooth Starry Night Projector",
+        "Custom Engraved Jewelry Box",
+        "Subscription Box (like Date Night in a Box)",
+        "Memory Jar with Pre-Written Prompts",
+        "Silk Pillowcase Set"
+      ],
+      "Above_50_dollar": [
+        "Weekend Getaway Package",
+        "Luxury Perfume (Chanel, Dior)",
+        "Custom Couple Portrait from an Artist",
+        "His & Her Watches (Fossil or Timex)",
+        "High-End Massage Gun",
+        "Fitness Tracker (Fitbit or Garmin)",
+        "Wine Tasting Experience for Two",
+        "Smart Digital Photo Frame",
+        "Subscription to MasterClass",
+        "Spa Retreat Voucher"
+      ]
+    },
+    "for_girlfriend": {
+      "Under_20_dollar": [
+        "Handmade Jewelry (Earrings or Rings)",
+        "Cute Plushie (Teddy Bear or Custom Animal)",
+        "Heart-Shaped Bath Bomb Set",
+        "Compact Makeup Mirror with LED Light",
+        "Small Jewelry Dish with Engraving",
+        "Photo Keychain",
+        "Mini Succulent Plant in a Stylish Pot",
+        "Personalized Bracelet",
+        "Lip Balm Gift Set (Burt's Bees)",
+        "Novelty Socks with Cute Patterns"
+      ],
+      "20_to_50_dollar": [
+        "Pandora Charm Bracelet (Entry Level)",
+        "Makeup Organizer Box",
+        "Victoria’s Secret Fragrance Set",
+        "Silk Pajama Set",
+        "Portable LED Ring Light",
+        "Personalized Handbag with Initials",
+        "Customizable Jewelry Organizer",
+        "Polaroid Album",
+        "Subscription to Beauty Box",
+        "Yoga Mat with Carrying Strap"
+      ],
+      "Above_50_dollar": [
+        "Apple AirPods",
+        "Custom Name Necklace",
+        "Luxury Handbag (Michael Kors, Kate Spade)",
+        "Designer Perfume (Gucci Bloom or YSL Libre)",
+        "Spa Day Voucher",
+        "Fujifilm Instax Mini Camera",
+        "High-End Hair Styling Tools (Dyson Airwrap)",
+        "Elegant Watch (Daniel Wellington or Fossil)",
+        "Customized Designer Sneakers",
+        "Annual Subscription to a Self-Care App (like Calm)"
+      ]
+    },
+    "for_boyfriend": {
+      "Under_20_dollar": [
+        "Portable Phone Stand",
+        "Mini Desk Organizer for Tech Accessories",
+        "Quirky Graphic T-Shirt (like Star Wars)",
+        "Leather Keychain with Initials",
+        "Custom Engraved Bottle Opener",
+        "Bluetooth Tile Tracker for Keys",
+        "Gaming Mouse Pad",
+        "Reusable Insulated Water Bottle",
+        "Funny Coffee Mug",
+        "Car Air Purifier"
+      ],
+      "20_to_50_dollar": [
+        "Gaming Headset (HyperX Cloud Stinger)",
+        "Smart Mug Warmer",
+        "Custom Leather Wallet",
+        "LED Desk Lamp with Wireless Charging",
+        "Portable Power Bank (Anker)",
+        "Board Game (like Ticket to Ride or Settlers of Catan)",
+        "Whiskey Decanter Set",
+        "Portable Projector for Movie Nights",
+        "Subscription to PlayStation Plus",
+        "Backpack for Work or Travel (Herschel or Adidas)"
+      ],
+      "Above_50_dollar": [
+        "PlayStation/Xbox Game",
+        "Adidas/Nike Sneakers",
+        "BOSE Bluetooth Speaker",
+        "Smartwatch (Samsung Galaxy Watch or Fitbit)",
+        "Portable BBQ Grill",
+        "GoPro HERO Camera",
+        "Gaming Chair",
+        "Noise-Canceling Headphones (Sony WH-1000XM4)",
+        "Drone with Camera",
+        "Subscription to MasterClass"
+      ]
+    },
+    "for_sister": {
+      "Under_20_dollar": [
+        "Silk Sleep Mask",
+        "Customized Initial Necklace",
+        "Bullet Journal Kit",
+        "Handmade Jewelry Box",
+        "Portable Makeup Bag",
+        "Cute Desk Organizer",
+        "Reusable Tote Bag with Art Print",
+        "Personalized Phone Case",
+        "Handcrafted Soaps",
+        "Dreamcatcher Wall Hanging"
+      ],
+      "20_to_50_dollar": [
+        "Jewelry Travel Case",
+        "Mini Polaroid Album",
+        "Skincare Set (The Ordinary)",
+        "Makeup Brush Set with Holder",
+        "Personalized Laptop Sleeve",
+        "Himalayan Salt Lamp",
+        "Fashionable Sunglasses",
+        "Custom Name Ring",
+        "Crossbody Bag (like Kipling)",
+        "Fluffy Indoor Slippers"
+      ],
+      "Above_50_dollar": [
+        "Dyson Supersonic Hair Dryer",
+        "Fujifilm Instax Mini Camera",
+        "Luxury Watch (Daniel Wellington)",
+        "Designer Backpack (Fjällräven Kånken)",
+        "Apple AirPods",
+        "Premium Curling Iron (GHD or Dyson)",
+        "High-End Jewelry Set",
+        "Smartwatch (Fitbit Luxe)",
+        "Subscription to a Beauty Box (like FabFitFun)",
+        "Custom Portrait Illustration"
+      ]
+    },
+    "for_office_colleague": {
+      "Under_20_dollar": [
+        "Funny Coffee Mug",
+        "Desk Succulent Plant",
+        "Reusable Stainless Steel Water Bottle",
+        "Portable USB Fan",
+        "Customized Pen with Name",
+        "Mini Desk Organizer",
+        "Stress Ball Set",
+        "Stylish Sticky Notes Set",
+        "Magnetic Desk Calendar",
+        "Compact Notebook"
+      ],
+      "20_to_50_dollar": [
+        "Desktop Organizer",
+        "Noise-Canceling Earbuds",
+        "High-End Notebook (like Moleskine)",
+        "Custom Mouse Pad",
+        "Laptop Stand for Desks",
+        "Portable Bluetooth Speaker",
+        "USB-C Docking Station",
+        "Desk Lamp with Wireless Charging",
+        "Customized Nameplate",
+        "Compact Coffee Maker"
+      ],
+      "Above_50_dollar": [
+        "Premium Desk Chair Cushion",
+        "High-Quality Laptop Bag",
+        "Smart Desk Lamp with Wireless Charging",
+        "Custom Leather Briefcase",
+        "Portable Projector for Presentations",
+        "BOSE Wireless Earbuds",
+        "Mini Espresso Machine",
+        "Subscription to a Productivity App (like Notion)",
+        "Digital Whiteboard",
+        "Premium Wireless Keyboard"
+      ]
+    },
+    "for_boss": {
+      "Under_20_dollar": [
+        "Luxury Pen (Parker or Lamy)",
+        "Personalized Thank You Card",
+        "Leather Bookmark",
+        "Desk Plant (like a Mini Bonsai Tree)",
+        "Coffee Mug with Motivational Quote",
+        "Premium Sticky Notes Set",
+        "Elegant Keychain",
+        "Pocket Notebook with Leather Cover",
+        "Portable Phone Stand",
+        "Custom Engraved Coaster"
+      ],
+      "20_to_50_dollar": [
+        "Business Card Holder",
+        "Miniature Bonsai Plant",
+        "Gourmet Coffee Gift Set",
+        "Desk Organizer with Pen Holders",
+        "Custom Nameplate for Desk",
+        "Insulated Travel Mug (like YETI or Contigo)",
+        "Leather Notebook Portfolio",
+        "Portable Bluetooth Speaker (JBL Clip)",
+        "Luxury Candle Set (like Diptyque)",
+        "Desk Clock with Unique Design"
+      ],
+      "Above_50_dollar": [
+        "High-End Desk Clock",
+        "Luxury Wine Set with Opener",
+        "Premium Leather Portfolio Case",
+        "Noise-Canceling Headphones (Sony WH-CH710N)",
+        "Digital Picture Frame",
+        "Designer Desk Lamp (Himalayan Salt or Smart Lamp)",
+        "Subscription to Audiobooks (like Audible)",
+        "High-Quality Fountain Pen (Montblanc)",
+        "Premium Whiskey Decanter Set",
+        "Gift Voucher for a Fine Dining Restaurant"
+      ]
+    }
+  }
